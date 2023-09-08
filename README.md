@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buğra Yıldırım</h1>
-- SA-MP Server [Asya Roleplay](https://discord.gg/asyarp)
+- SA-MP Server [https://discord.gg/asyarp](https://discord.gg/asyarp)
 
 - Web [https://vodkazerss.com.tr/](https://vodkazerss.com.tr/)
 
