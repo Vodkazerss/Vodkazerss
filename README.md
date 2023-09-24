@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buğra Yıldırım</h1>
 
-- Server https://discord.gg/hollyland
-
 - Web [https://vodkazerss.com.tr/](https://vodkazerss.com.tr/)
 
 - Mail **root@vodkazerss.com.tr**
